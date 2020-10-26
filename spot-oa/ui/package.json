@@ -5,7 +5,7 @@
   "repository": "https://github.com/Open-Network-Insight/open-network-insight",
   "license": "Apache License, Version 2.0",
   "dependencies": {
-    "bootstrap": "3.3.5",
+    "bootstrap": "3.4.1",
     "bootstrap-datepicker": "1.6.0",
     "bootstrap-jquery": "^3.3.2",
     "d3": "^3.5.17",
